@@ -4,7 +4,7 @@
  <meta charset="UTF-8">
  <meta name="viewport" content="width=device-width, initial-scale=1.0">
  <link href="l.css" rel="stylesheet">
- <title>Loginpage</title>
+ 
  <link href="l.png" rel="icon" >
  
 </head>
